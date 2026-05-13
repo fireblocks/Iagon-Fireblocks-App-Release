@@ -9,7 +9,8 @@ For more information, please read the following Fireblocks [Help Center Article]
 ---
 
 ## Releases:
-### LATEST [v1.1.4](https://github.com/fireblocks/Iagon-Fireblocks-App-Release/releases/tag/v1.1.4)
+### LATEST [v1.3.0](https://github.com/fireblocks/Iagon-Fireblocks-App-Release/releases/tag/v1.3.0)
+#### [v1.1.4](https://github.com/fireblocks/Iagon-Fireblocks-App-Release/releases/tag/v1.1.4)
 #### [v1.1.3](https://github.com/fireblocks/Iagon-Fireblocks-App-Release/releases/tag/v1.1.3)
 #### [v1.1.2](https://github.com/fireblocks/Iagon-Fireblocks-App-Release/releases/tag/v1.1.2)
 #### [v1.1.1](https://github.com/fireblocks/Iagon-Fireblocks-App-Release/releases/tag/v1.1.1)
